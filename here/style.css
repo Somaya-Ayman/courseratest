@@ -1,0 +1,11 @@
+body{
+	color: blue ;
+font-family: arial;
+font-size: 50px;
+font-style: normal;
+font-weight: normal;
+}
+div{border: 10px solid pink ; 
+padding: 30px solid blue; 
+background-image: url(bba4d900-d785-42ac-a2de-1f030c132182.jfif);
+}
