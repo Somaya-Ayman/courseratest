@@ -1,25 +1,26 @@
 h1{text-align: center;font-color:red; font-family: sans-serif;font-weight: bold;font-size: 75%; 
-	margin-top: 20px; width: 10%;margin-left: auto;margin-right: auto;margin-bottom: 20px;  }  
-body{margin:20px;
-	color: black ;
+margin-top: 20px; width: 10%;margin-left: auto;margin-right: auto;margin-bottom: 20px;border: 1px solid black;
+ padding :15px; background-color: lightyellow;  }  
+body{
+color: black ;
 font-family: sans-serif;
 font-style: normal;
 font-weight: normal;
 }
-p{ width:90%; height: 90%;
-  padding: 20px; border: 1px black; margin: 20px;
+p{ 
+  border: 1px black; 
 }
 section{;
-   float: left ;  
-overflow: auto;padding: 20px white;}
-h2{border: 1px;}
+   float: left ; padding: 20px;
+}
+
 .row { width: 100%;}
-#p1 { background-color:white; }
-#p2 { background-color:white; }
-#p3 {background-color:white ; }
-#title1 {position: absolute;top: 0px; right: 0px;  border: 1px;  font-size:75%; font-weight: bold;}
-#title2 {position: absolute;top: 0px; right: 0px;border: 1px;  font-size: 75%; font-weight: bold;}
-#title3 {position: absolute;top: 0px; right: 0px;border: 1px;  font-size: 75%; font-weight: bold;}
-#sec1 {position: relative;background-color: lightgreen;padding: 20px white;}
-#sec2 {position: relative;background-color: lightpink;padding: 20px white;}
-#sec3 {position: relative;background-color: lightblue;padding: 20px white;}
+#p1 { border: 1px solid black; padding :15px;background-color:lightgreen; }
+#p2 {border: 1px solid black;padding :15px ; background-color:lightblue; }
+#p3 {border: 1px solid black;padding :15px ;background-color:lightpink ; }
+#title1 {padding :5px ;border: 1px solid black;position: absolute;top: 45px; right: 20px;    font-size:75%; font-weight: bold;}
+#title2 {padding :5px ;border: 1px solid black;position: absolute;top: 45px; right: 20px;  font-size: 75%; font-weight: bold;}
+#title3 {padding :5px ;border: 1px solid black;position: absolute;top: 45px; right: 20px; font-size: 75%; font-weight: bold;}
+#sec1 {position: relative;background-color: white;padding: 20px white;margin-bottom: 20px; margin-top: 20px;}
+#sec2 {position: relative;background-color: white;padding: 20px white;margin-bottom: 20px;margin-top: 20px;}
+#sec3 {position: relative;background-color: white;padding: 20px white;margin-bottom: 20px;margin-top: 20px;}
